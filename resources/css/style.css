@@ -3,7 +3,7 @@ html {
     text-align: center;
 }
 
-.header h1 {
+h1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: normal;
     font-size: 50px;
@@ -11,7 +11,24 @@ html {
     text-align: center;
 }
 
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    color: gray;
+}
+
 a {
     color: aquamarine;
     font-size: 1rem;
+}
+
+.footer {
+    text-align: right;
 }
